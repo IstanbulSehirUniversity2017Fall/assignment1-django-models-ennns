@@ -1,14 +1,14 @@
 # assignment1 
-git init
-git status
-git add .
-git commit -m "my message"
-git remote add origin https:...
-git remote -v
-git push -u origin master
-python manage.py startapp book
-python manage.py makemigrations
-python manage.py migrate
-python manage.py runserver
-python manage.py shell
+git init</br>
+git status</br>
+git add .</br>
+git commit -m "my message"</br>
+git remote add origin https:...</br>
+git remote -v</br>
+git push -u origin master</br>
+python manage.py startapp book</br>
+python manage.py makemigrations</br>
+python manage.py migrate</br>
+python manage.py runserver</br>
+python manage.py shell</br>
 python manage.py createsuperuser
